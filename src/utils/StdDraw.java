@@ -485,8 +485,8 @@ import utils.StdDraw;
  */
 public final class StdDraw implements ActionListener, MouseListener, MouseMotionListener, KeyListener {
 
-
 	static MyGameGUI g;
+	static boolean isPaint = false;
 
 	/**
 	 *  The color black.
@@ -1696,6 +1696,12 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 		g= gr;
 	}
 
+	public static void setIsPaint() {
+		isPaint=true;
+	}
+	public static boolean getIsPaint() {
+		return isPaint;
+	}
 
 	/**
 	 * This method cannot be called directly.
@@ -1826,7 +1832,7 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 	 */
 	@Override
 	public void mouseClicked(MouseEvent e) {
-		// this body is intentionally left empty
+		g.setPoint(StdDraw.userX(e.getX()), StdDraw.userY(e.getY()));
 	}
 
 	/**
