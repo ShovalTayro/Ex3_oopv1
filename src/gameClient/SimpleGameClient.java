@@ -53,7 +53,7 @@ public class SimpleGameClient {
 			c.initFruit(temp);
 			of.add(c);
 		}
-		MyGameGUI n = new MyGameGUI(gg, of);
+		MyGameGUI n = new MyGameGUI(gg);
 		ArrayList<ourRobots> rob;
 	//	MyGameGUI n = new MyGameGUI(gg);
 		String info = game.toString();

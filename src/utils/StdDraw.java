@@ -77,7 +77,7 @@ import javax.swing.JMenuItem;
 import javax.swing.KeyStroke;
 
 import dataStructure.graph;
-import gui.graphGUI;
+import gameClient.MyGameGUI;
 import utils.StdDraw;
 
 /**
@@ -486,7 +486,7 @@ import utils.StdDraw;
 public final class StdDraw implements ActionListener, MouseListener, MouseMotionListener, KeyListener {
 
 
-	static graphGUI graph;
+	static MyGameGUI g;
 
 	/**
 	 *  The color black.
@@ -1692,8 +1692,8 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 	}
 
 
-	public static void setGraphGUI(graphGUI g){
-		graph= g;
+	public static void setGraphGUI(MyGameGUI gr){
+		g= gr;
 	}
 
 
