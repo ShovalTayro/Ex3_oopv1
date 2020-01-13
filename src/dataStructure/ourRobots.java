@@ -1,4 +1,6 @@
 package dataStructure;
+import java.util.List;
+
 import org.json.JSONObject;
 
 import utils.Point3D;
@@ -10,6 +12,7 @@ public class ourRobots {
 	private node_data node;
 	private edge_data edge;
 	private graph g;
+	private List<node_data> path;
 
 	public ourRobots(){
 		this.id = 0;
@@ -17,6 +20,7 @@ public class ourRobots {
 		this.speed = 1;
 		this.edge = null;
 		this.node = null;
+		this.path = null;
 	}
 
 	public ourRobots(int id,Point3D pos,double speed,node_data node,edge_data edge , graph g){
@@ -67,7 +71,14 @@ public class ourRobots {
 	public void setEdge(edge_data edge) {
 		this.edge = edge;
 	}
-	//init (?)
+	
+	public List<node_data> getPath(){
+		return path;
+	}
+	
+	public void setPath(List<node_data> path) {
+		this.path = path;
+	}
 
 	public void setGraph(graph gr) {
 		this.g= gr;

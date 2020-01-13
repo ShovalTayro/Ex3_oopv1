@@ -8,12 +8,14 @@ public class ourFruit {
 	private int type;
 	private Point3D pos;
 	private edge_data edge;
+	private boolean visited;
 
 	public ourFruit(){
 		this.value = 0;
 		this.type = 1;
 		this.pos=null;
 		this.edge=null;
+		this.visited= false;
 	}
 	
 	public ourFruit(int val,int type, Point3D pos, edge_data edge){
@@ -21,8 +23,14 @@ public class ourFruit {
 		this.type = type;
 		this.pos = pos;
 		this.edge = edge;
+		this.visited= false;
 	}
-	
+	public boolean getVisited() {
+		return visited;
+	}
+	public void setVisited(boolean visited) {
+		this.visited=  visited;
+	}
 	public int getValue(){
 		return value;
 	}

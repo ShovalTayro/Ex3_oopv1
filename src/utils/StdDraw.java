@@ -600,7 +600,10 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 
 	// boundary of drawing canvas, 0% border
 	// private static final double BORDER = 0.05;
-	private static final double BORDER = 0.00;
+	//change
+	//private static final double BORDER = 0.0;
+	private static final double BORDER = 0.05;
+
 	private static final double DEFAULT_XMIN = 0.0;
 	private static final double DEFAULT_XMAX = 1.0;
 	private static final double DEFAULT_YMIN = 0.0;
