@@ -11,10 +11,8 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.List;
-
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
-
 import org.json.JSONObject;
 import Server.Game_Server;
 import Server.game_service;
@@ -55,8 +53,6 @@ public class MyGameGUI implements ActionListener, Serializable{
 		this.fruits = new ArrayList<ourFruit>();
 		this.rob = new ArrayList<ourRobots>();
 		initGUI();
-		//playManual("2");
-		//playAuto("23");
 	}
 
 
@@ -361,8 +357,6 @@ public class MyGameGUI implements ActionListener, Serializable{
 		this.x = x;
 		this.y = y;
 	}
-
-
 
 	public void playAuto() {
 		try{
