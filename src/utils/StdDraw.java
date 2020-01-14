@@ -74,6 +74,7 @@ import javax.swing.JLabel;
 import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
+import javax.swing.JOptionPane;
 import javax.swing.KeyStroke;
 
 import dataStructure.graph;
@@ -600,7 +601,10 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 
 	// boundary of drawing canvas, 0% border
 	// private static final double BORDER = 0.05;
-	private static final double BORDER = 0.00;
+	//change
+	//private static final double BORDER = 0.0;
+	private static final double BORDER = 0.05;
+
 	private static final double DEFAULT_XMIN = 0.0;
 	private static final double DEFAULT_XMAX = 1.0;
 	private static final double DEFAULT_YMIN = 0.0;
@@ -723,47 +727,15 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 	// create the menu bar (changed to private)
 	private static JMenuBar createMenuBar() {
 		JMenuBar menuBar = new JMenuBar();
-		JMenu File = new JMenu("File");
-		menuBar.add(File);
-		JMenuItem Draw = new JMenuItem("Draw graph");
-		Draw.addActionListener(std);
-		JMenuItem Add = new JMenuItem("Add node");
-		Add.addActionListener(std);
-		JMenuItem Remove = new JMenuItem("Remove node");
-		Remove.addActionListener(std);
-		JMenuItem RemoveE = new JMenuItem("Remove edge");
-		RemoveE.addActionListener(std);
-		JMenuItem Connect = new JMenuItem("Connect edge");
-		Connect.addActionListener(std);
-		JMenuItem Save = new JMenuItem("Save");
-		Save.addActionListener(std);
-		JMenuItem Load = new JMenuItem("Load");
-		Load.addActionListener(std);
-		File.add(Save);
-		File.add(Load);
-		File.add(Draw);
-		File.add(Add);
-		File.add(Remove);
-		File.add(Connect);
-		File.add(RemoveE);
-
-
-		JMenu Algo = new JMenu("Algo");
-		menuBar.add(Algo);
-		JMenuItem sp = new JMenuItem("Shortest Path");
-		sp.addActionListener(std);
-		JMenuItem spd = new JMenuItem("Shortest Path Dist");
-		spd.addActionListener(std);
-		JMenuItem ic = new JMenuItem("Is Connceted");
-		ic.addActionListener(std);
-		JMenuItem tsp = new JMenuItem("TSP");
-		tsp.addActionListener(std);
-
-		Algo.add(sp);
-		Algo.add(spd);
-		Algo.add(ic);
-		Algo.add(tsp);
-
+		JMenu Game = new JMenu("Game");
+		menuBar.add(Game);
+		JMenuItem manual = new JMenuItem("Manual game");
+		manual.addActionListener(std);
+		JMenuItem Auto = new JMenuItem("Auto game");
+		Auto.addActionListener(std);
+		
+		Game.add(manual);
+		Game.add(Auto);
 		return menuBar;
 	}
 
@@ -1703,29 +1675,48 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 		return isPaint;
 	}
 
+	static Thread t;
+	public static void threadPlayManu() {
+		t = new Thread(new Runnable() {
+			
+			@Override
+			public void run() {
+				g.playManual();
+				t.interrupt();
+			}
+		});
+		t.start();
+	}
+	public static void threadPlayAuto() {
+		t = new Thread(new Runnable() {
+			
+			@Override
+			public void run() {
+				g.playAuto();
+				t.interrupt();
+			}
+		});
+		t.start();
+	}
+
+	
+	
 	/**
 	 * This method cannot be called directly.
 	 */
 	@Override
 	public void actionPerformed(ActionEvent e) {
+	String str = e.getActionCommand();
+
+	if(str.equals("Manual game")) {
+		threadPlayManu();
+	}
+
+	if(str.equals("Auto game")) {
+		threadPlayAuto();
 
 	}
-	//		FileDialog chooser = new FileDialog(StdDraw.frame, "Use a .png or .jpg extension", FileDialog.SAVE);
-	//		chooser.setVisible(true);
-	//		String filename = chooser.getFile();
-	//		if (filename != null) {
-	//			StdDraw.save(chooser.getDirectory() + File.separator + chooser.getFile());
-	//		}
-
-	//		String str = e.getActionCommand();
-	//
-	//		if(str.equals("Save")) {
-	//			graph.save();
-	//		}
-	//
-	//		if(str.equals("Load")) {
-	//			graph.clear();
-	//			graph.Load();
+	}
 	//		}
 	//
 	//		if(str.equals("Draw graph")) {
