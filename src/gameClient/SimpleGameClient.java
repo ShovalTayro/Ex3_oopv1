@@ -11,15 +11,10 @@ import org.json.JSONObject;
 import dataStructure.DGraph;
 import dataStructure.edge_data;
 import dataStructure.graph;
-import dataStructure.node_data;
 import dataStructure.ourFruit;
 import Server.Game_Server;
 import Server.game_service;
 import gameClient.MyGameGUI;
-import oop_dataStructure.OOP_DGraph;
-import oop_dataStructure.oop_edge_data;
-import oop_dataStructure.oop_graph;
-import utils.Point3D;
 /**
  * This class represents a simple example for using the GameServer API:
  * the main file performs the following tasks:
@@ -49,7 +44,7 @@ public class SimpleGameClient {
 		String g = game.getGraph();
 		DGraph gg = new DGraph();
 		gg.init(g);
-		String info = game.toString();
+//		String info = game.toString();
 //		ArrayList<String> fruit =  (ArrayList<String>) game.getFruits();
 //		Fruit f = new Fruit(); 
 //		for (int i = 0; i < fruit.size(); i++) {

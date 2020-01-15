@@ -3,15 +3,12 @@ package gameClient;
 import utils.Point3D;
 import utils.StdDraw;
 import java.awt.Color;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.io.Serializable;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.List;
-import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import org.json.JSONObject;
 import Server.Game_Server;
@@ -23,8 +20,9 @@ import dataStructure.graph;
 import dataStructure.node_data;
 import dataStructure.ourFruit;
 import dataStructure.ourRobots;
+import gui.Clock;
 
-public class MyGameGUI implements ActionListener, Serializable{
+public class MyGameGUI implements Serializable{
 	private final double EPSILON = 0.0001;
 	private static DecimalFormat df2 = new DecimalFormat("#.###");
 	ArrayList<ourFruit> fruits;
@@ -41,6 +39,7 @@ public class MyGameGUI implements ActionListener, Serializable{
 	int moveRobot;
 	static int robotChoosen=0;
 
+	//Default contractor
 	public MyGameGUI() {
 		this.gr = null;
 		this.fruits = new ArrayList<ourFruit>();
@@ -63,6 +62,7 @@ public class MyGameGUI implements ActionListener, Serializable{
 			StdDraw.setIsPaint();
 		}
 		if(gr != null){
+			//change the pixel of the window
 			Collection<node_data> nodes = gr.getV();
 			for (node_data node_data : nodes) {
 				Point3D p = node_data.getLocation();
@@ -76,12 +76,12 @@ public class MyGameGUI implements ActionListener, Serializable{
 		StdDraw.setYscale(min_y, max_y);
 		StdDraw.setGraphGUI(this);
 		StdDraw.show();
-		//paint(game);
 	}
 
 	public void paint(game_service game) {
 		StdDraw.clear();
 		StdDraw.setPenRadius(0.0005);
+		//draw nodes
 		Collection<node_data> nodes = gr.getV();
 		for(node_data n: nodes) {
 			Collection<edge_data> edges = gr.getE(n.getKey());
@@ -90,6 +90,7 @@ public class MyGameGUI implements ActionListener, Serializable{
 			StdDraw.filledCircle(p.x(), p.y(),0.00007);
 			StdDraw.text(p.x(),p.y()+0.00015, ""+ n.getKey());
 			for(edge_data e: edges) {	
+				//draw edges
 				StdDraw.setPenColor(Color.GRAY);
 				node_data n2 = gr.getNode(e.getDest());
 				Point3D p2 = n2.getLocation();
@@ -119,6 +120,7 @@ public class MyGameGUI implements ActionListener, Serializable{
 			fruits.add(f);
 			findFruitEdge(f);
 		}
+		//draw a banana
 		if(!fruits.isEmpty()){
 			for(ourFruit f : fruits) {
 				findFruitEdge(f);
@@ -129,6 +131,7 @@ public class MyGameGUI implements ActionListener, Serializable{
 				}
 			}
 		}
+		//clear robots collection if needed
 		if(rob!= null){
 			rob.clear();
 		}
@@ -136,6 +139,7 @@ public class MyGameGUI implements ActionListener, Serializable{
 			rob = new ArrayList<ourRobots>();
 		}
 		initRob(game);
+		//draw robots
 		if(!rob.isEmpty()){
 			for(ourRobots r : rob) {
 				Point3D p = r.getPos();
@@ -144,7 +148,8 @@ public class MyGameGUI implements ActionListener, Serializable{
 		}
 		StdDraw.show();
 	}
-	//init  robot
+
+	//init robot
 	private void initRob(game_service game) {
 		List<String> robServer = game.getRobots();
 		for (String string : robServer) {
@@ -163,7 +168,7 @@ public class MyGameGUI implements ActionListener, Serializable{
 				Point3D p =gr.getNode(ed.getSrc()).getLocation();
 				Point3D p2 =gr.getNode(ed.getDest()).getLocation();
 				//check if the fruit is on the edge
-				if(Math.abs((p.distance2D(p2)-(Math.abs((f.getPos().distance2D(p)))+(Math.abs((f.getPos().distance2D(p2))))))) <= EPSILON){
+				if(Math.abs((p.distance2D(p2)-(Math.abs((f.getPos().distance2D(p)))+(Math.abs((f.getPos().distance2D(p2))))))) <= 0.0000001){
 					int low=n.getKey();
 					int high=ed.getDest();
 					if(n.getKey()>ed.getDest()) {
@@ -184,15 +189,9 @@ public class MyGameGUI implements ActionListener, Serializable{
 			}
 		}
 	}
-	@Override
-	public void actionPerformed(ActionEvent e) {
-		// TODO Auto-generated method stub
-
-	}
 
 	public void playManual(){
 		try{
-			JFrame input = new JFrame();
 			String num = JOptionPane.showInputDialog(null, "Enter a scenario you want to play : ");
 			int scenario_num = Integer.parseInt(num);
 			if(scenario_num>=0 && scenario_num<=23) {
@@ -257,6 +256,8 @@ public class MyGameGUI implements ActionListener, Serializable{
 				}
 				StdDraw.pause(50);
 				game.startGame();
+				//Timer 
+				Clock k = new Clock(game);
 				while(game.isRunning()) {
 					moveManualRobots(game);	
 				}
@@ -266,9 +267,9 @@ public class MyGameGUI implements ActionListener, Serializable{
 				JSONObject cgame = (JSONObject) object.get("GameServer");
 				int points = cgame.getInt("grade");
 				int moves = cgame.getInt("moves");
-				
+
 				JOptionPane.showMessageDialog(null, "Your points: " + points +"\nYour move: " + moves);			
-				}
+			}
 			//the scenario is not exist throw error
 			else{
 				JOptionPane.showMessageDialog(null, "Error , the scenario you choose does not exist. ");
@@ -287,17 +288,14 @@ public class MyGameGUI implements ActionListener, Serializable{
 				ourRobots r = rob.get(robotChoosen);
 				if(r!= null) {
 					game.chooseNextEdge(r.getId(), destMove);
-					System.out.println("r+ " + r.getId()+ " , dest "+ destMove);
 					game.move();
-					System.out.println("MOVE");
-					System.out.println(game.getFruits());
-					//System.out.println(game.getRobots());
 					paint(game);
 				}
 			}
 		}
 		paint(game);
 	}
+
 	private int nextNodeauto(game_service game){
 		ourRobots r = null;
 		Point3D robPos = new Point3D(x, y);
@@ -312,7 +310,6 @@ public class MyGameGUI implements ActionListener, Serializable{
 					robots = false;
 					this.x =0;
 					this.y =0;
-					System.out.println("BOT CHOOSEN");
 					break;
 				}
 			}
@@ -320,15 +317,12 @@ public class MyGameGUI implements ActionListener, Serializable{
 		//search next node for movement from the node the robot is placed on
 		else {
 			Collection<edge_data> eg = gr.getE(rob.get(robotChoosen).getNode().getKey());
-			//check if the pressed  dest is one of the edges of the current node
+			//check if the pressed dest is one of the edges of the current node
 			Point3D dest = new Point3D(x, y);
 			for (edge_data e : eg) {
 				Point3D temp = gr.getNode(e.getDest()).getLocation();
 				if(dest.distance2D(temp)<=0.0003) {
-
-					System.out.println("FOUND EDGE");
 					r= rob.get(robotChoosen);
-					System.out.println("dest "+ e.getDest());
 					r.setEdge(e);
 					rob.get(robotChoosen).setNode(gr.getNode(e.getDest()));
 					robots= true;
@@ -342,17 +336,8 @@ public class MyGameGUI implements ActionListener, Serializable{
 		this.y =0;
 		return -1;
 	}
-	private  int nextNode(graph g, int src) {
-		int ans = -1;
-		Collection<edge_data> ee = g.getE(src);
-		Iterator<edge_data> itr = ee.iterator();
-		int s = ee.size();
-		int r = (int)(Math.random()*s);
-		int i=0;
-		while(i<r) {itr.next();i++;}
-		ans = itr.next().getDest();
-		return ans;
-	}
+
+	//set to the x,y from the user click
 	public void setPoint(double x, double y) {
 		this.x = x;
 		this.y = y;
@@ -360,7 +345,6 @@ public class MyGameGUI implements ActionListener, Serializable{
 
 	public void playAuto() {
 		try{
-			JFrame input = new JFrame();
 			String num = JOptionPane.showInputDialog(null, "Enter a scenario you want to play : ");
 			int scenario_num = Integer.parseInt(num);
 			if(scenario_num>=0 && scenario_num<=23) {
@@ -384,7 +368,6 @@ public class MyGameGUI implements ActionListener, Serializable{
 					f.initFruit(sFruit);
 					fruits.add(f);
 					findFruitEdge(f);
-			//		System.out.println(f.getEdge().getSrc() + " " + f.getEdge().getDest());
 				}
 				min_x=Integer.MAX_VALUE;
 				max_x=Integer.MIN_VALUE;
@@ -411,17 +394,18 @@ public class MyGameGUI implements ActionListener, Serializable{
 				paint(game);
 				StdDraw.pause(50);
 				game.startGame();
+				//Timer
+				Clock k = new Clock(game);
 				while(game.isRunning()) {
 					moveAutomaticallyRobots(game);	
 				}
-				//return result
 				//return result
 				String res = game.toString();
 				JSONObject object = new JSONObject(res);
 				JSONObject cgame = (JSONObject) object.get("GameServer");
 				int points = cgame.getInt("grade");
 				int moves = cgame.getInt("moves");
-				
+
 				JOptionPane.showMessageDialog(null, "Computer points: " + points +"\nComputer move: " + moves);	
 			}
 
@@ -439,6 +423,8 @@ public class MyGameGUI implements ActionListener, Serializable{
 		ourFruit temp = new ourFruit();
 		Graph_Algo a = new Graph_Algo();
 		a.init(gr);
+
+		//find the shortest path between each robot to a fruit on the game
 		for (ourRobots  roby : rob) {
 			double dist = Double.MAX_VALUE;
 			for (ourFruit f : fruits) {
@@ -447,31 +433,24 @@ public class MyGameGUI implements ActionListener, Serializable{
 					temp=f;
 				}
 			}
-			robotChoosen = roby.getId();
-		//	System.out.println("temp"+game.getFruits());
-			System.out.println(roby.getNode().getKey() + " " + temp.getEdge().getSrc());
+			//	robotChoosen = roby.getId();
 			roby.setPath(a.shortestPath(roby.getNode().getKey(), temp.getEdge().getSrc()));
 			roby.getPath().remove(0);
 			roby.getPath().add(gr.getNode(temp.getEdge().getDest()));
-		//	System.out.println("value "+ temp.getValue());
 			for (ourFruit f : fruits) {
 				if(f.getPos()==temp.getPos()) {
 					f.setVisited(true);
 				}
 			}
-			//this.fruits.get(temp.getValue()).setVisited(true);
 		}
 
+		//move the robots by the path we find for him
 		List<String> log= game.move();
 		if(log!= null) {
 			for (int i = 0; i < rob.size(); i++) {
 				ourRobots roby = rob.get(i);
 				while(roby.getPath().size() != 0) {
-					//System.out.println(roby.getId()+"roby id");
-				//	System.out.println(rob.size());
-					//System.out.println("path"+roby.getPath().get(0).getKey());
 					game.chooseNextEdge(roby.getId(), roby.getPath().get(0).getKey());
-					//paint(game);
 					game.move();
 					roby.getPath().remove(0);
 				}
@@ -481,7 +460,7 @@ public class MyGameGUI implements ActionListener, Serializable{
 	}
 
 
-
+	//if the edge has a fruit than put a robot on the src of this edge
 	private void putRobot(game_service game, int check) {
 		for (ourFruit f : fruits) {
 			if(!f.getVisited()) {

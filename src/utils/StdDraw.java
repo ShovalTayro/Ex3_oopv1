@@ -29,16 +29,12 @@ package utils;
 
 import java.awt.BasicStroke;
 import java.awt.Color;
-import java.awt.FileDialog;
 import java.awt.Font;
 import java.awt.FontMetrics;
 import java.awt.Graphics2D;
 import java.awt.Image;
 import java.awt.MediaTracker;
-import java.awt.MenuItem;
 import java.awt.RenderingHints;
-import java.awt.Toolkit;
-
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
@@ -67,17 +63,12 @@ import java.util.LinkedList;
 import java.util.TreeSet;
 import java.util.NoSuchElementException;
 import javax.imageio.ImageIO;
-
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
-import javax.swing.JOptionPane;
-import javax.swing.KeyStroke;
-
-import dataStructure.graph;
 import gameClient.MyGameGUI;
 import utils.StdDraw;
 
@@ -616,7 +607,7 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 	private static Object keyLock = new Object();
 
 	// default font
-	private static final Font DEFAULT_FONT = new Font("SansSerif", Font.PLAIN, 16);
+	private static final Font DEFAULT_FONT = new Font("SansSerif", Font.PLAIN, 13);
 
 	// current font
 	private static Font font;
