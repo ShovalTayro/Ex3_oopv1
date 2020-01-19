@@ -9,59 +9,58 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.List;
-import javax.swing.JOptionPane;
-import org.json.JSONObject;
-import Server.Game_Server;
 import Server.game_service;
 import algorithms.Graph_Algo;
-import dataStructure.DGraph;
 import dataStructure.edge_data;
 import dataStructure.graph;
 import dataStructure.node_data;
 import dataStructure.ourFruit;
 import dataStructure.ourRobots;
-import gui.Clock;
 
 public class MyGameGUI implements Serializable{
-	private final double EPSILON = 0.0001;
 	private static DecimalFormat df2 = new DecimalFormat("#.###");
 	ArrayList<ourFruit> fruits;
 	ArrayList<ourRobots> rob;
 	graph gr;
 	Graph_Algo a = new Graph_Algo();
-	double min_x=Integer.MAX_VALUE;
-	double max_x=Integer.MIN_VALUE;
-	double min_y=Integer.MAX_VALUE;
-	double max_y=Integer.MIN_VALUE;
 	boolean robots = true;
 	double x;
 	double y;
 	int moveRobot;
 	static int robotChoosen=0;
+	KML_Logger kmlLogger;
+	Thread movement;
+	Thread kml;
 
 	//Default contractor
 	public MyGameGUI() {
 		this.gr = null;
 		this.fruits = new ArrayList<ourFruit>();
 		this.rob = new ArrayList<ourRobots>();
-		initGUI();
+		initGUI(this.gr);
 	}
 
-	public MyGameGUI(DGraph gr) {
+	public MyGameGUI(graph gr) {
 		this.gr = gr;
 		this.fruits = new ArrayList<ourFruit>();
 		this.rob = new ArrayList<ourRobots>();
-		initGUI();
+		initGUI(gr);
 	}
 
 
-	private void initGUI(){
+	void initGUI(graph gr){
 		StdDraw.enableDoubleBuffering();
 		if(!StdDraw.getIsPaint()) {
 			StdDraw.setCanvasSize(800, 600);
 			StdDraw.setIsPaint();
 		}
-		if(gr != null){
+		double min_x=Integer.MAX_VALUE;
+		double max_x=Integer.MIN_VALUE;
+		double min_y=Integer.MAX_VALUE;
+		double max_y=Integer.MIN_VALUE;
+		if(gr != null){	
+			kmlLogger = new KML_Logger(gr);
+			kmlLogger.kmlGraph();
 			//change the pixel of the window
 			Collection<node_data> nodes = gr.getV();
 			for (node_data node_data : nodes) {
@@ -118,12 +117,12 @@ public class MyGameGUI implements Serializable{
 			ourFruit f = new ourFruit();
 			f.initFruit(sFruit);
 			fruits.add(f);
-			findFruitEdge(f);
+			findFruitEdge(f, this.gr);
 		}
 		//draw a banana
 		if(!fruits.isEmpty()){
 			for(ourFruit f : fruits) {
-				findFruitEdge(f);
+				findFruitEdge(f, this.gr);
 				Point3D p = f.getPos();
 				if(f.getType() == 1) StdDraw.picture(p.x(), p.y(), "apple.jpg", 0.0004, 0.0004);
 				else {
@@ -160,7 +159,7 @@ public class MyGameGUI implements Serializable{
 		}
 	}
 	// find the edge the fruit is on
-	private void findFruitEdge(ourFruit f) {
+	public static void findFruitEdge(ourFruit f, graph gr) {
 		Collection<node_data> v = gr.getV();
 		for(node_data n : v) {
 			Collection<edge_data> e = gr.getE(n.getKey());
@@ -185,294 +184,55 @@ public class MyGameGUI implements Serializable{
 						if(edF!= null)f.setEdge(edF);
 					}
 				}
-
 			}
 		}
 	}
+	//thread that make a move in the game
+	public void movements(game_service game) {
+		movement = new Thread(new Runnable() {
+			@Override
+			public void run() {
+				while(game.isRunning()) {
+					//game.move();
+					try{
+						game.move();
+						Thread.sleep(120);
+					}
+					catch (Exception e) {
+						e.printStackTrace();
+					}
+				}
+			}
+		});
+		movement.start();
+	}
+	//thread that save the game into a KML file
+	public void createKML(game_service game){
+		kml = new Thread(new Runnable() {
 
-	public void playManual(){
-		try{
-			String num = JOptionPane.showInputDialog(null, "Enter a scenario you want to play : ");
-			int scenario_num = Integer.parseInt(num);
-			if(scenario_num>=0 && scenario_num<=23) {
-				game_service game = Game_Server.getServer(scenario_num);
-				String g = game.getGraph();
-				DGraph gg = new DGraph();
-				gg.init(g);
-				this.gr = gg;
-				Iterator<String> fruit_iter = game.getFruits().iterator();
-				//clear fruits collection if needed
-				if(fruits!= null){
-					fruits.clear();
-				}
-				else{
-					fruits = new ArrayList<ourFruit>();
-				}
-				//set all fruits in their places
-				while(fruit_iter.hasNext())
-				{
-					String sFruit = fruit_iter.next();
-					ourFruit f = new ourFruit();
-					f.initFruit(sFruit);
-					fruits.add(f);
-					findFruitEdge(f);
-				}
-				min_x=Integer.MAX_VALUE;
-				max_x=Integer.MIN_VALUE;
-				min_y=Integer.MAX_VALUE;
-				max_y=Integer.MIN_VALUE;
-				initGUI();
-				paint(game);
-				String gameString = game.toString();
-				JSONObject obj = new JSONObject(gameString);
-				JSONObject CurrGame = (JSONObject) obj.get("GameServer");
-				int nomOfRobots = CurrGame.getInt("robots");
-				int check = 0;
-				//	if the robots arrayList not empty clear
-				if(rob != null)rob.clear();
-				else{
-					rob = new ArrayList<ourRobots>();
-				}
+			@Override
+			public void run() {
+				while(game.isRunning()){
+					if(gr !=null){
+						try {
+							Thread.sleep(1000);
+							String name  = java.time.LocalDate.now()+"T"+java.time.LocalTime.now();
+							kmlLogger.setFruit(name);
+							kmlLogger.setRobot(name);
+						}
 
-				//put the robots manually update the list and repaint using gui
-				JOptionPane.showMessageDialog(null, "add " + nomOfRobots + " robots by click on the nodes");
-				while(check < nomOfRobots)	{
-					Point3D pos = new Point3D(x, y);
-					Collection<node_data> nd = gr.getV();
-					for (node_data node_data : nd) {
-						Point3D ndPos = node_data.getLocation();
-						if(pos.distance2D(ndPos) <= EPSILON){
-							game.addRobot(node_data.getKey());
-							ourRobots r = new ourRobots(check, node_data.getLocation(), 1 , node_data, null , gr);
-							check++;
-							r.setGraph(gg);
-							rob.add(r);
-							paint(game);
-							this.x = 0;
-							this.y = 0;
-							break;
+						catch (Exception e) {
+							e.printStackTrace();
 						}
 					}
 				}
-				StdDraw.pause(50);
-				game.startGame();
-				//Timer 
-				Clock k = new Clock(game);
-				while(game.isRunning()) {
-					moveManualRobots(game);	
-				}
-				//return result
-				String res = game.toString();
-				JSONObject object = new JSONObject(res);
-				JSONObject cgame = (JSONObject) object.get("GameServer");
-				int points = cgame.getInt("grade");
-				int moves = cgame.getInt("moves");
-
-				JOptionPane.showMessageDialog(null, "Your points: " + points +"\nYour move: " + moves);			
 			}
-			//the scenario is not exist throw error
-			else{
-				JOptionPane.showMessageDialog(null, "Error , the scenario you choose does not exist. ");
-			}
-		}
-		catch (Exception e) {
-			e.printStackTrace();
-		}
+		});
+		kml.start();
 	}
 
-	private void moveManualRobots(game_service game) {
-		List<String> log= game.move();
-		if(log!= null) {
-			int destMove = nextNodeauto(game);
-			if(destMove!= -1) {
-				ourRobots r = rob.get(robotChoosen);
-				if(r!= null) {
-					game.chooseNextEdge(r.getId(), destMove);
-					game.move();
-					paint(game);
-				}
-			}
-		}
-		paint(game);
-	}
-
-	private int nextNodeauto(game_service game){
-		ourRobots r = null;
-		Point3D robPos = new Point3D(x, y);
-		if(robots)	{
-			for (ourRobots roby : rob) {
-				Point3D p2= roby.getPos();
-				//click on the robot?
-				if(p2.distance2D(robPos)<= EPSILON) {
-					//search for edge for the robot
-					r= roby;
-					robotChoosen = roby.getId();
-					robots = false;
-					this.x =0;
-					this.y =0;
-					break;
-				}
-			}
-		}
-		//search next node for movement from the node the robot is placed on
-		else {
-			Collection<edge_data> eg = gr.getE(rob.get(robotChoosen).getNode().getKey());
-			//check if the pressed dest is one of the edges of the current node
-			Point3D dest = new Point3D(x, y);
-			for (edge_data e : eg) {
-				Point3D temp = gr.getNode(e.getDest()).getLocation();
-				if(dest.distance2D(temp)<=0.0003) {
-					r= rob.get(robotChoosen);
-					r.setEdge(e);
-					rob.get(robotChoosen).setNode(gr.getNode(e.getDest()));
-					robots= true;
-					this.x = 0;
-					this.y =0;
-					return e.getDest();
-				}
-			}
-		}
-		this.x = 0;
-		this.y =0;
-		return -1;
-	}
-
-	//set to the x,y from the user click
 	public void setPoint(double x, double y) {
 		this.x = x;
 		this.y = y;
-	}
-
-	public void playAuto() {
-		try{
-			String num = JOptionPane.showInputDialog(null, "Enter a scenario you want to play : ");
-			int scenario_num = Integer.parseInt(num);
-			if(scenario_num>=0 && scenario_num<=23) {
-				game_service game = Game_Server.getServer(scenario_num);
-				String g = game.getGraph();
-				DGraph gg = new DGraph();
-				gg.init(g);
-				this.gr = gg;
-				Iterator<String> fruit_iter = game.getFruits().iterator();
-				//clear fruits collection if needed
-				if(fruits!= null){
-					fruits.clear();
-				}
-				else{
-					fruits = new ArrayList<ourFruit>();
-				}
-				//set all fruits in their places
-				while(fruit_iter.hasNext()){
-					String sFruit = fruit_iter.next();
-					ourFruit f = new ourFruit();
-					f.initFruit(sFruit);
-					fruits.add(f);
-					findFruitEdge(f);
-				}
-				min_x=Integer.MAX_VALUE;
-				max_x=Integer.MIN_VALUE;
-				min_y=Integer.MAX_VALUE;
-				max_y=Integer.MIN_VALUE;
-				initGUI();
-				paint(game);
-				String gameString = game.toString();
-				JSONObject obj = new JSONObject(gameString);
-				JSONObject CurrGame = (JSONObject) obj.get("GameServer");
-				int nomOfRobots = CurrGame.getInt("robots");
-				int check = 0;
-				//	if the robots arrayList not empty clear
-				if(rob != null)rob.clear();
-				else{
-					rob = new ArrayList<ourRobots>();
-				}
-
-				//put the robots automatically , update the list and repaint using gui
-				while(check < nomOfRobots)	{
-					putRobot(game, check);
-					check++;
-				}
-				paint(game);
-				StdDraw.pause(50);
-				game.startGame();
-				//Timer
-				Clock k = new Clock(game);
-				while(game.isRunning()) {
-					moveAutomaticallyRobots(game);	
-				}
-				//return result
-				String res = game.toString();
-				JSONObject object = new JSONObject(res);
-				JSONObject cgame = (JSONObject) object.get("GameServer");
-				int points = cgame.getInt("grade");
-				int moves = cgame.getInt("moves");
-
-				JOptionPane.showMessageDialog(null, "Computer points: " + points +"\nComputer move: " + moves);	
-			}
-
-			//the scenario is not exist throw error
-			else{
-				JOptionPane.showMessageDialog(null, "Error , the scenario you choose does not exist. ");
-			}
-		}
-		catch (Exception e) {
-			e.printStackTrace();
-		}
-	}
-
-	private void moveAutomaticallyRobots(game_service game) {
-		ourFruit temp = new ourFruit();
-		Graph_Algo a = new Graph_Algo();
-		a.init(gr);
-
-		//find the shortest path between each robot to a fruit on the game
-		for (ourRobots  roby : rob) {
-			double dist = Double.MAX_VALUE;
-			for (ourFruit f : fruits) {
-				if(dist>(a.shortestPathDist(roby.getNode().getKey(), f.getEdge().getSrc())+f.getEdge().getWeight())&&(!f.getVisited())) {
-					dist =a.shortestPathDist(roby.getNode().getKey(), f.getEdge().getSrc())+f.getEdge().getWeight();
-					temp=f;
-				}
-			}
-			//	robotChoosen = roby.getId();
-			roby.setPath(a.shortestPath(roby.getNode().getKey(), temp.getEdge().getSrc()));
-			roby.getPath().remove(0);
-			roby.getPath().add(gr.getNode(temp.getEdge().getDest()));
-			for (ourFruit f : fruits) {
-				if(f.getPos()==temp.getPos()) {
-					f.setVisited(true);
-				}
-			}
-		}
-
-		//move the robots by the path we find for him
-		List<String> log= game.move();
-		if(log!= null) {
-			for (int i = 0; i < rob.size(); i++) {
-				ourRobots roby = rob.get(i);
-				while(roby.getPath().size() != 0) {
-					game.chooseNextEdge(roby.getId(), roby.getPath().get(0).getKey());
-					game.move();
-					roby.getPath().remove(0);
-				}
-			}	
-		}
-		paint(game);
-	}
-
-
-	//if the edge has a fruit than put a robot on the src of this edge
-	private void putRobot(game_service game, int check) {
-		for (ourFruit f : fruits) {
-			if(!f.getVisited()) {
-				node_data n = gr.getNode(f.getEdge().getSrc());
-				game.addRobot(n.getKey());
-				ourRobots r = new ourRobots(check, n.getLocation(), 1 , n, null , gr);
-				rob.add(r);
-				r.setGraph(gr);
-				f.setVisited(true);
-				break;	
-			}
-		}
-
 	}
 }

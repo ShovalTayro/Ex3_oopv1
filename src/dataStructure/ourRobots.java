@@ -5,7 +5,7 @@ import org.json.JSONObject;
 
 import utils.Point3D;
 
-public class ourRobots {
+public class ourRobots implements Robot {
 	private int id;
 	private Point3D pos;
 	private double speed;
@@ -83,8 +83,7 @@ public class ourRobots {
 	public void setGraph(graph gr) {
 		this.g= gr;
 	}
-	public void initRobots(String g)
-	{
+	public void initRobots(String g){
 		if(!g.isEmpty())
 		{
 			try

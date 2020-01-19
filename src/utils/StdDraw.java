@@ -70,6 +70,8 @@ import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 import gameClient.MyGameGUI;
+import gameClient.playAuto;
+import gameClient.playManual;
 import utils.StdDraw;
 
 /**
@@ -1672,7 +1674,8 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 			
 			@Override
 			public void run() {
-				g.playManual();
+				playManual pm = new playManual(g);
+				pm.playManually();
 				t.interrupt();
 			}
 		});
@@ -1683,7 +1686,8 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 			
 			@Override
 			public void run() {
-				g.playAuto();
+				playAuto pm = new playAuto(g);
+				pm.playAutomat();
 				t.interrupt();
 			}
 		});

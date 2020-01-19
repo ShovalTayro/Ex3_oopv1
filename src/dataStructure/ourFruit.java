@@ -3,7 +3,7 @@ package dataStructure;
 import org.json.JSONObject;
 import utils.Point3D;
 
-public class ourFruit {
+public class ourFruit implements Fruit{
 	private int value;
 	private int type;
 	private Point3D pos;
