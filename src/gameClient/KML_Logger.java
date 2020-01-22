@@ -75,7 +75,7 @@ public class KML_Logger {
 		}
 	}
 
-	public void setFruit(String name){
+	public void setFruit(String name , String end){
 		//icon for fruits
 		Icon appleIcon = new Icon();
 		appleIcon.withHref("http://maps.google.com/mapfiles/kml/shapes/snack_bar.png");
@@ -105,7 +105,7 @@ public class KML_Logger {
 				else placeFruit.setStyleUrl("#Banana");
 
 				placeFruit.createAndSetPoint().addToCoordinates(x, y);
-				placeFruit.createAndSetTimeStamp().withWhen(name);
+				placeFruit.createAndSetTimeSpan().withBegin(name).withEnd(end);
 			}
 			catch(Exception e) {
 				e.printStackTrace();
@@ -113,7 +113,7 @@ public class KML_Logger {
 		}
 	}
 
-	public void setRobot(String name) {
+	public void setRobot(String name ,String end) {
 		//icon for robot
 		Icon robotIcon = new Icon();
 		robotIcon.withHref("http://maps.google.com/mapfiles/kml/shapes/man.png");
@@ -136,7 +136,7 @@ public class KML_Logger {
 				Placemark placeRobot = ourDoc.createAndAddPlacemark();
 				placeRobot.setStyleUrl("#Robot");
 				placeRobot.createAndSetPoint().addToCoordinates(x, y);
-				placeRobot.createAndSetTimeStamp().withWhen(name);
+				placeRobot.createAndSetTimeSpan().withBegin(name).withEnd(end);
 			}
 			catch(Exception e) {
 				e.printStackTrace();

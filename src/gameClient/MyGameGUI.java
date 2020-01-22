@@ -5,6 +5,7 @@ import utils.StdDraw;
 import java.awt.Color;
 import java.io.Serializable;
 import java.text.DecimalFormat;
+import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
@@ -31,6 +32,7 @@ public class MyGameGUI implements Serializable{
 	KML_Logger kmlLogger;
 	Thread movement;
 	Thread kml;
+	static long sleepy =90;
 
 	//Default contractor
 	public MyGameGUI() {
@@ -196,7 +198,7 @@ public class MyGameGUI implements Serializable{
 					//game.move();
 					try{
 						game.move();
-						Thread.sleep(120);
+						Thread.sleep(sleepy);
 					}
 					catch (Exception e) {
 						e.printStackTrace();
@@ -206,7 +208,6 @@ public class MyGameGUI implements Serializable{
 		});
 		movement.start();
 	}
-	//thread that save the game into a KML file
 	public void createKML(game_service game){
 		kml = new Thread(new Runnable() {
 
@@ -217,8 +218,11 @@ public class MyGameGUI implements Serializable{
 						try {
 							Thread.sleep(1000);
 							String name  = java.time.LocalDate.now()+"T"+java.time.LocalTime.now();
-							kmlLogger.setFruit(name);
-							kmlLogger.setRobot(name);
+							LocalTime end = java.time.LocalTime.now();
+							end= end.plusNanos(100*1000000);
+							String endOfTime = java.time.LocalDate.now()+ "T"+end;
+							kmlLogger.setFruit(name ,endOfTime );
+							kmlLogger.setRobot(name, endOfTime);
 						}
 
 						catch (Exception e) {
