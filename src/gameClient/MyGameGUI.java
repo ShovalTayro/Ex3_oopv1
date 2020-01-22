@@ -32,7 +32,7 @@ public class MyGameGUI implements Serializable{
 	KML_Logger kmlLogger;
 	Thread movement;
 	Thread kml;
-	static long sleepy =90;
+	static long sleepy =105;
 
 	//Default contractor
 	public MyGameGUI() {

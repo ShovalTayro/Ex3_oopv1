@@ -718,20 +718,30 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 	}
 
 	// create the menu bar (changed to private)
-	private static JMenuBar createMenuBar() {
-		JMenuBar menuBar = new JMenuBar();
-		JMenu Game = new JMenu("Game");
-		menuBar.add(Game);
-		JMenuItem manual = new JMenuItem("Manual game");
-		manual.addActionListener(std);
-		JMenuItem Auto = new JMenuItem("Auto game");
-		Auto.addActionListener(std);
-		
-		Game.add(manual);
-		Game.add(Auto);
-		return menuBar;
-	}
-
+		private static JMenuBar createMenuBar() {
+			JMenuBar menuBar = new JMenuBar();
+			JMenu Game = new JMenu("Game");
+			menuBar.add(Game);
+			JMenuItem manual = new JMenuItem("Manual game");
+			manual.addActionListener(std);
+			JMenuItem Auto = new JMenuItem("Auto game");
+			Auto.addActionListener(std);
+			
+			Game.add(manual);
+			Game.add(Auto);
+			
+			JMenu info = new JMenu("Info");
+			menuBar.add(info);
+			JMenuItem user = new JMenuItem("Your Stats");
+			user.addActionListener(std);
+			JMenuItem rank = new JMenuItem("Rank");
+			rank.addActionListener(std);
+			
+			info.add(user);
+			info.add(rank);
+			
+			return menuBar;
+		}
 	public static void CreateMenu(){
 		JMenuBar menuBar = new JMenuBar();
 	}
@@ -1709,8 +1719,16 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 
 	if(str.equals("Auto game")) {
 		threadPlayAuto();
-
 	}
+	
+	if(str.equals("Your Stats")) {
+		playAuto.userStats();
+	}
+	
+	if(str.equals("Rank")) {
+		playAuto.rank();
+	}
+	
 	}
 	//		}
 	//
@@ -1760,7 +1778,6 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 	//			graph.TSP();
 	//		}
 	//	}
-
 
 	/***************************************************************************
 	 *  Mouse interactions.
