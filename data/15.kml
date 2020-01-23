@@ -3769,2703 +3769,3003 @@
             </ns2:LineString>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:22.163489100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:36.265282500</ns2:begin>
+                <ns2:end>2020-01-23T13:45:36.365282500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1975216180008,32.102581944657636</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:22.163489100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:36.265282500</ns2:begin>
+                <ns2:end>2020-01-23T13:45:36.365282500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19107442861682,32.10301957562814</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:22.163489100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:36.265282500</ns2:begin>
+                <ns2:end>2020-01-23T13:45:36.365282500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:22.163489100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:36.265282500</ns2:begin>
+                <ns2:end>2020-01-23T13:45:36.365282500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:22.163489100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:36.265282500</ns2:begin>
+                <ns2:end>2020-01-23T13:45:36.365282500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.18928030522074,32.1090395949219</ns2:coordinates>
+                <ns2:coordinates>35.18912432420503,32.1090292828301</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:23.165340400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:37.266601800</ns2:begin>
+                <ns2:end>2020-01-23T13:45:37.366601800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1975216180008,32.102581944657636</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:23.165340400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:37.266601800</ns2:begin>
+                <ns2:end>2020-01-23T13:45:37.366601800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19107442861682,32.10301957562814</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:23.165340400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:37.266601800</ns2:begin>
+                <ns2:end>2020-01-23T13:45:37.366601800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:23.165340400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:37.266601800</ns2:begin>
+                <ns2:end>2020-01-23T13:45:37.366601800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:23.165340400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:37.266601800</ns2:begin>
+                <ns2:end>2020-01-23T13:45:37.366601800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.18773104659333,32.107086247271965</ns2:coordinates>
+                <ns2:coordinates>35.187779098883944,32.106894048723035</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:24.166265800</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:38.266926100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:38.366926100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1975216180008,32.102581944657636</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:24.166265800</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:38.266926100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:38.366926100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19107442861682,32.10301957562814</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:24.166265800</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:38.266926100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:38.366926100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:24.166265800</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:38.266926100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:38.366926100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:24.166265800</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:38.266926100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:38.366926100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.18823493372677,32.10359194770113</ns2:coordinates>
+                <ns2:coordinates>35.188296465257324,32.10357367110334</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:25.166988300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:39.267248100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:39.367248100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1975216180008,32.102581944657636</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:25.166988300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:39.267248100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:39.367248100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19107442861682,32.10301957562814</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:25.166988300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:39.267248100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:39.367248100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:25.166988300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:39.267248100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:39.367248100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:25.166988300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:39.267248100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:39.367248100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.188779912975875,32.103522415214734</ns2:coordinates>
+                <ns2:coordinates>35.18857399366582,32.10356754211598</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:26.167204600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:40.267889600</ns2:begin>
+                <ns2:end>2020-01-23T13:45:40.367889600</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1975216180008,32.102581944657636</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:26.167204600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:40.267889600</ns2:begin>
+                <ns2:end>2020-01-23T13:45:40.367889600</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:26.167204600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:40.267889600</ns2:begin>
+                <ns2:end>2020-01-23T13:45:40.367889600</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:26.167204600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:40.267889600</ns2:begin>
+                <ns2:end>2020-01-23T13:45:40.367889600</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19184504990152,32.10482858772078</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:26.167204600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:40.267889600</ns2:begin>
+                <ns2:end>2020-01-23T13:45:40.367889600</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.191984947398474,32.10282003683242</ns2:coordinates>
+                <ns2:coordinates>35.191583072615956,32.10290810707518</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:27.167530200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:41.268681100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:41.368681100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1975216180008,32.102581944657636</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:27.167530200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:41.268681100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:41.368681100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:27.167530200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:41.268681100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:41.368681100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:27.167530200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:41.268681100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:41.368681100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19184504990152,32.10482858772078</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:27.167530200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:41.268681100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:41.368681100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.194328745687656,32.10219878609578</ns2:coordinates>
+                <ns2:coordinates>35.19423929232838,32.10223707839588</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:28.167876800</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:42.269002900</ns2:begin>
+                <ns2:end>2020-01-23T13:45:42.369002900</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1975216180008,32.102581944657636</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:28.167876800</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:42.269002900</ns2:begin>
+                <ns2:end>2020-01-23T13:45:42.369002900</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:28.167876800</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:42.269002900</ns2:begin>
+                <ns2:end>2020-01-23T13:45:42.369002900</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:28.167876800</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:42.269002900</ns2:begin>
+                <ns2:end>2020-01-23T13:45:42.369002900</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19184504990152,32.10482858772078</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:28.167876800</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:42.269002900</ns2:begin>
+                <ns2:end>2020-01-23T13:45:42.369002900</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.19589389346247,32.10152879327731</ns2:coordinates>
+                <ns2:coordinates>35.19569218801853,32.10161513732805</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:29.168085900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:43.269328</ns2:begin>
+                <ns2:end>2020-01-23T13:45:43.369328</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:29.168085900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:43.269328</ns2:begin>
+                <ns2:end>2020-01-23T13:45:43.369328</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:29.168085900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:43.269328</ns2:begin>
+                <ns2:end>2020-01-23T13:45:43.369328</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19184504990152,32.10482858772078</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:29.168085900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:43.269328</ns2:begin>
+                <ns2:end>2020-01-23T13:45:43.369328</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.202882700559186,32.106066147050655</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:29.168085900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:43.269328</ns2:begin>
+                <ns2:end>2020-01-23T13:45:43.369328</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.19691277966102,32.10240110252101</ns2:coordinates>
+                <ns2:coordinates>35.19678874327644,32.10229491000905</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:30.168909700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:44.269977700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:44.369977700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:30.168909700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:44.269977700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:44.369977700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:30.168909700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:44.269977700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:44.369977700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19184504990152,32.10482858772078</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:30.168909700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:44.269977700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:44.369977700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.202882700559186,32.106066147050655</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:30.168909700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:44.269977700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:44.369977700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.19589389346247,32.10152879327731</ns2:coordinates>
+                <ns2:coordinates>35.19606198253181,32.10167270105539</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:31.169243600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:45.270887400</ns2:begin>
+                <ns2:end>2020-01-23T13:45:45.370887400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:31.169243600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:45.270887400</ns2:begin>
+                <ns2:end>2020-01-23T13:45:45.370887400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:31.169243600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:45.270887400</ns2:begin>
+                <ns2:end>2020-01-23T13:45:45.370887400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19184504990152,32.10482858772078</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:31.169243600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:45.270887400</ns2:begin>
+                <ns2:end>2020-01-23T13:45:45.370887400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.202882700559186,32.106066147050655</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:31.169243600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:45.270887400</ns2:begin>
+                <ns2:end>2020-01-23T13:45:45.370887400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.202288891277206,32.10297712534086</ns2:coordinates>
+                <ns2:coordinates>35.20065309943581,32.102606653005786</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:32.169662400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:46.271827</ns2:begin>
+                <ns2:end>2020-01-23T13:45:46.371827</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:32.169662400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:46.271827</ns2:begin>
+                <ns2:end>2020-01-23T13:45:46.371827</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:32.169662400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:46.271827</ns2:begin>
+                <ns2:end>2020-01-23T13:45:46.371827</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19184504990152,32.10482858772078</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:32.169662400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:46.271827</ns2:begin>
+                <ns2:end>2020-01-23T13:45:46.371827</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.202882700559186,32.106066147050655</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:32.169662400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:46.271827</ns2:begin>
+                <ns2:end>2020-01-23T13:45:46.371827</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.20285477743784,32.10409001301625</ns2:coordinates>
+                <ns2:coordinates>35.20296014147266,32.103809728949905</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:33.170018</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:47.271994400</ns2:begin>
+                <ns2:end>2020-01-23T13:45:47.371994400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:33.170018</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:47.271994400</ns2:begin>
+                <ns2:end>2020-01-23T13:45:47.371994400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:33.170018</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:47.271994400</ns2:begin>
+                <ns2:end>2020-01-23T13:45:47.371994400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19184504990152,32.10482858772078</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:33.170018</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:47.271994400</ns2:begin>
+                <ns2:end>2020-01-23T13:45:47.371994400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.202882700559186,32.106066147050655</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:33.170018</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:47.271994400</ns2:begin>
+                <ns2:end>2020-01-23T13:45:47.371994400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.202230070799565,32.10517706856446</ns2:coordinates>
+                <ns2:coordinates>35.20239609991093,32.104992281149144</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:34.170345600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:48.272512300</ns2:begin>
+                <ns2:end>2020-01-23T13:45:48.372512300</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:34.170345600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:48.272512300</ns2:begin>
+                <ns2:end>2020-01-23T13:45:48.372512300</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:34.170345600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:48.272512300</ns2:begin>
+                <ns2:end>2020-01-23T13:45:48.372512300</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19184504990152,32.10482858772078</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:34.170345600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:48.272512300</ns2:begin>
+                <ns2:end>2020-01-23T13:45:48.372512300</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.202882700559186,32.106066147050655</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:48.272512300</ns2:begin>
+                <ns2:end>2020-01-23T13:45:48.372512300</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Robot</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20186978423621,32.105974633673355</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:49.273090700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:49.373090700</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:49.273090700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:49.373090700</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:49.273090700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:49.373090700</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.19184504990152,32.10482858772078</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:49.273090700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:49.373090700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20781746814603,32.10406097364853</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:34.170345600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:49.273090700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:49.373090700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.20270687448512,32.10605026179193</ns2:coordinates>
+                <ns2:coordinates>35.20518518892286,32.106274168662665</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:35.170819800</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:50.274440200</ns2:begin>
+                <ns2:end>2020-01-23T13:45:50.374440200</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:35.170819800</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:50.274440200</ns2:begin>
+                <ns2:end>2020-01-23T13:45:50.374440200</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:35.170819800</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:50.274440200</ns2:begin>
+                <ns2:end>2020-01-23T13:45:50.374440200</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19184504990152,32.10482858772078</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:35.170819800</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:50.274440200</ns2:begin>
+                <ns2:end>2020-01-23T13:45:50.374440200</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20781746814603,32.10406097364853</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:35.170819800</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:50.274440200</ns2:begin>
+                <ns2:end>2020-01-23T13:45:50.374440200</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.205764353510894,32.106326494117646</ns2:coordinates>
+                <ns2:coordinates>35.20689149509207,32.10557491458223</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:36.171155</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:51.275760100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:51.375760100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:36.171155</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:51.275760100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:51.375760100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:36.171155</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:51.275760100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:51.375760100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19184504990152,32.10482858772078</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:36.171155</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20781746814603,32.10406097364853</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:36.171155</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Robot</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.2071040577724,32.105433177498625</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:37.171874100</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:37.171874100</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:37.171874100</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.19184504990152,32.10482858772078</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:37.171874100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:51.275760100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:51.375760100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:37.171874100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:51.275760100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:51.375760100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.20785708560926,32.10426448222154</ns2:coordinates>
+                <ns2:coordinates>35.20787494116645,32.10435620336336</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:38.172172</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:52.276142200</ns2:begin>
+                <ns2:end>2020-01-23T13:45:52.376142200</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:38.172172</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:52.276142200</ns2:begin>
+                <ns2:end>2020-01-23T13:45:52.376142200</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:38.172172</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:52.276142200</ns2:begin>
+                <ns2:end>2020-01-23T13:45:52.376142200</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19184504990152,32.10482858772078</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:38.172172</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:52.276142200</ns2:begin>
+                <ns2:end>2020-01-23T13:45:52.376142200</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:38.172172</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:52.276142200</ns2:begin>
+                <ns2:end>2020-01-23T13:45:52.376142200</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.20822075120114,32.1021875639337</ns2:coordinates>
+                <ns2:coordinates>35.20791074375793,32.10235587257251</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:39.172502400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:53.276436700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:53.376436700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:39.172502400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:53.276436700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:53.376436700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:39.172502400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:53.276436700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:53.376436700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19184504990152,32.10482858772078</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:39.172502400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:53.276436700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:53.376436700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:39.172502400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:53.276436700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:53.376436700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.19911216591264,32.10414622268993</ns2:coordinates>
+                <ns2:coordinates>35.200723095370776,32.10374540802557</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:40.173382700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:54.277141700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:54.377141700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:40.173382700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:54.277141700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:54.377141700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:40.173382700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:54.277141700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:54.377141700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19184504990152,32.10482858772078</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:40.173382700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:54.277141700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:54.377141700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:40.173382700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:54.277141700</ns2:begin>
+                <ns2:end>2020-01-23T13:45:54.377141700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19188202905569,32.10579947394958</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:41.173709900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:55.277411100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:55.377411100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:41.173709900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:55.277411100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:55.377411100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:41.173709900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:55.277411100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:55.377411100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:41.173709900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:55.277411100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:55.377411100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19491365572973,32.10194840365014</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:41.173709900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:55.277411100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:55.377411100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.190946105231134,32.10421145379893</ns2:coordinates>
+                <ns2:coordinates>35.191336446216816,32.104173904749864</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:42.174691200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:56.277737100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:56.377737100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1895284188731,32.10741411926631</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:42.174691200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:56.277737100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:56.377737100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:42.174691200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:56.277737100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:56.377737100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:42.174691200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:56.277737100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:56.377737100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19491365572973,32.10194840365014</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:42.174691200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:56.277737100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:56.377737100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.18882479217639,32.10486353572028</ns2:coordinates>
+                <ns2:coordinates>35.189002693051364,32.10477425168658</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:43.174919200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:57.285606100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:57.385606100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:43.174919200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:57.285606100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:57.385606100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:43.174919200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:57.285606100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:57.385606100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19491365572973,32.10194840365014</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:43.174919200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:57.285606100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:57.385606100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19041912635518,32.10316318411459</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:43.174919200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:57.285606100</ns2:begin>
+                <ns2:end>2020-01-23T13:45:57.385606100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.189560136504234,32.10678050882626</ns2:coordinates>
+                <ns2:coordinates>35.18956188261725,32.106745627424395</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:44.175125100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:58.286432300</ns2:begin>
+                <ns2:end>2020-01-23T13:45:58.386552700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19267984547574,32.10653735773054</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:44.175125100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:58.286432300</ns2:begin>
+                <ns2:end>2020-01-23T13:45:58.386552700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:44.175125100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:58.286432300</ns2:begin>
+                <ns2:end>2020-01-23T13:45:58.386552700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19491365572973,32.10194840365014</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:44.175125100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:58.286432300</ns2:begin>
+                <ns2:end>2020-01-23T13:45:58.386552700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19041912635518,32.10316318411459</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:44.175125100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:58.286432300</ns2:begin>
+                <ns2:end>2020-01-23T13:45:58.386552700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.19040727035733,32.107505031774366</ns2:coordinates>
+                <ns2:coordinates>35.19021921985075,32.1075851046365</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:45.175380900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:59.286737400</ns2:begin>
+                <ns2:end>2020-01-23T13:45:59.386737400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:45.175380900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:59.286737400</ns2:begin>
+                <ns2:end>2020-01-23T13:45:59.386737400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19491365572973,32.10194840365014</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:45.175380900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:59.286737400</ns2:begin>
+                <ns2:end>2020-01-23T13:45:59.386737400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19041912635518,32.10316318411459</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:45.175380900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:59.286737400</ns2:begin>
+                <ns2:end>2020-01-23T13:45:59.386737400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20310306702148,32.1060860563746</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:45.175380900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:45:59.286737400</ns2:begin>
+                <ns2:end>2020-01-23T13:45:59.386737400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.19687002533803,32.10525545605382</ns2:coordinates>
+                <ns2:coordinates>35.19574842354291,32.10556504426354</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:46.175685300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:00.287284600</ns2:begin>
+                <ns2:end>2020-01-23T13:46:00.387284600</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:46.175685300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:00.287284600</ns2:begin>
+                <ns2:end>2020-01-23T13:46:00.387284600</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19491365572973,32.10194840365014</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:46.175685300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:00.287284600</ns2:begin>
+                <ns2:end>2020-01-23T13:46:00.387284600</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19041912635518,32.10316318411459</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:46.175685300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:00.287284600</ns2:begin>
+                <ns2:end>2020-01-23T13:46:00.387284600</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20310306702148,32.1060860563746</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:46.175685300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:00.287284600</ns2:begin>
+                <ns2:end>2020-01-23T13:46:00.387284600</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.19805902663438,32.10525428067227</ns2:coordinates>
+                <ns2:coordinates>35.19798101137593,32.10523704403113</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:47.176505100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:01.287625100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:01.387625100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:47.176505100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:01.287625100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:01.387625100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19491365572973,32.10194840365014</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:47.176505100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:01.287625100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:01.387625100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19041912635518,32.10316318411459</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:47.176505100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:01.287625100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:01.387625100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20310306702148,32.1060860563746</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:47.176505100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:01.287625100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:01.387625100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.20144289764039,32.1059255523796</ns2:coordinates>
+                <ns2:coordinates>35.201228994913585,32.10588311966028</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:48.176801300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:02.287934100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:02.387934100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:48.176801300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:02.287934100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:02.387934100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19491365572973,32.10194840365014</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:48.176801300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:02.287934100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:02.387934100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19041912635518,32.10316318411459</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:48.176801300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:02.287934100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:02.387934100</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20582793006609,32.108382878677425</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:02.287934100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:02.387934100</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Robot</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.207632311541566,32.107907554621846</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:03.288890100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:03.388890100</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:03.288890100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:03.388890100</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Apple</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.19491365572973,32.10194840365014</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:03.288890100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:03.388890100</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Apple</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.19041912635518,32.10316318411459</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:03.288890100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:03.388890100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19072170211502,32.10423304037049</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:48.176801300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:03.288890100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:03.388890100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.2075398132089,32.107870934264035</ns2:coordinates>
+                <ns2:coordinates>35.20490987461126,32.106829733955934</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:49.177365600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:04.289759100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:04.389759100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:49.177365600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:04.289759100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:04.389759100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19491365572973,32.10194840365014</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:49.177365600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:04.289759100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:04.389759100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19041912635518,32.10316318411459</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:49.177365600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:04.289759100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:04.389759100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19072170211502,32.10423304037049</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:49.177365600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:04.289759100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:04.389759100</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Robot</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20241292663136,32.104973553311886</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:05.290707300</ns2:begin>
+                <ns2:end>2020-01-23T13:46:05.390707300</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:05.290707300</ns2:begin>
+                <ns2:end>2020-01-23T13:46:05.390707300</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Apple</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.19041912635518,32.10316318411459</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:05.290707300</ns2:begin>
+                <ns2:end>2020-01-23T13:46:05.390707300</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Apple</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.19072170211502,32.10423304037049</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:05.290707300</ns2:begin>
+                <ns2:end>2020-01-23T13:46:05.390707300</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20463467770297,32.1062244319373</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:05.290707300</ns2:begin>
+                <ns2:end>2020-01-23T13:46:05.390707300</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Robot</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.19432405715233,32.10220079311713</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:06.291082800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:06.391082800</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:06.291082800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:06.391082800</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Apple</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.19072170211502,32.10423304037049</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:06.291082800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:06.391082800</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20463467770297,32.1062244319373</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:06.291082800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:06.391082800</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20522436432718,32.10636456640505</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:06.291082800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:06.391082800</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Robot</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.19196897978007,32.10282353611152</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:07.291135</ns2:begin>
+                <ns2:end>2020-01-23T13:46:07.391135</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:07.291135</ns2:begin>
+                <ns2:end>2020-01-23T13:46:07.391135</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20463467770297,32.1062244319373</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:07.291135</ns2:begin>
+                <ns2:end>2020-01-23T13:46:07.391135</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20522436432718,32.10636456640505</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:07.291135</ns2:begin>
+                <ns2:end>2020-01-23T13:46:07.391135</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.19080289325829,32.10422523014729</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:07.291135</ns2:begin>
+                <ns2:end>2020-01-23T13:46:07.391135</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Robot</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.19181834866828,32.10412754789916</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:08.291954300</ns2:begin>
+                <ns2:end>2020-01-23T13:46:08.391954300</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:08.291954300</ns2:begin>
+                <ns2:end>2020-01-23T13:46:08.391954300</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20463467770297,32.1062244319373</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:08.291954300</ns2:begin>
+                <ns2:end>2020-01-23T13:46:08.391954300</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20522436432718,32.10636456640505</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:08.291954300</ns2:begin>
+                <ns2:end>2020-01-23T13:46:08.391954300</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20556170401307,32.10591316459274</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:08.291954300</ns2:begin>
+                <ns2:end>2020-01-23T13:46:08.391954300</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Robot</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.19359817087898,32.10101508937064</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:09.292350900</ns2:begin>
+                <ns2:end>2020-01-23T13:46:09.392350900</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20463467770297,32.1062244319373</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:09.292350900</ns2:begin>
+                <ns2:end>2020-01-23T13:46:09.392350900</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20522436432718,32.10636456640505</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:09.292350900</ns2:begin>
+                <ns2:end>2020-01-23T13:46:09.392350900</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20556170401307,32.10591316459274</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:09.292350900</ns2:begin>
+                <ns2:end>2020-01-23T13:46:09.392350900</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.19722845405337,32.10249486670743</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:09.292350900</ns2:begin>
+                <ns2:end>2020-01-23T13:46:09.392350900</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Robot</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20502026115408,32.09975174486763</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:10.293283500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:10.393283500</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20463467770297,32.1062244319373</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:10.293283500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:10.393283500</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20522436432718,32.10636456640505</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:10.293283500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:10.393283500</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20556170401307,32.10591316459274</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:10.293283500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:10.393283500</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.19722845405337,32.10249486670743</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:10.293283500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:10.393283500</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Robot</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20810070519593,32.1013535461194</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:11.293694300</ns2:begin>
+                <ns2:end>2020-01-23T13:46:11.393694300</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20463467770297,32.1062244319373</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:11.293694300</ns2:begin>
+                <ns2:end>2020-01-23T13:46:11.393694300</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20522436432718,32.10636456640505</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:11.293694300</ns2:begin>
+                <ns2:end>2020-01-23T13:46:11.393694300</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.19722845405337,32.10249486670743</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:11.293694300</ns2:begin>
+                <ns2:end>2020-01-23T13:46:11.393694300</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.210900474907874,32.102045005277624</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:11.293694300</ns2:begin>
+                <ns2:end>2020-01-23T13:46:11.393694300</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.205764353510894,32.106326494117646</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:50.177797900</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:50.177797900</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Apple</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.19491365572973,32.10194840365014</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:50.177797900</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Apple</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.19041912635518,32.10316318411459</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:50.177797900</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Apple</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.19072170211502,32.10423304037049</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:50.177797900</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Robot</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20319591121872,32.10318254621849</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:51.177920700</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:51.177920700</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Apple</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.19041912635518,32.10316318411459</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:51.177920700</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Apple</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.19072170211502,32.10423304037049</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:51.177920700</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20463467770297,32.1062244319373</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:51.177920700</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Robot</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.19143342528836,32.1029409020577</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:52.178247100</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:52.178247100</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Apple</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.19072170211502,32.10423304037049</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:52.178247100</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20463467770297,32.1062244319373</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:52.178247100</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20522436432718,32.10636456640505</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:52.178247100</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Robot</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.187594216303474,32.10378225882353</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:53.178817800</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:53.178817800</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20463467770297,32.1062244319373</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:53.178817800</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20522436432718,32.10636456640505</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:53.178817800</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20556170401307,32.10591316459274</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:53.178817800</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Robot</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.18992916384181,32.1043092789916</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:54.179146900</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20553759856522,32.09976715054618</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:54.179146900</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20463467770297,32.1062244319373</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:54.179146900</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20522436432718,32.10636456640505</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:54.179146900</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20556170401307,32.10591316459274</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:54.179146900</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Robot</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20085097681683,32.0999114817549</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:55.179516400</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20463467770297,32.1062244319373</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:55.179516400</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20522436432718,32.10636456640505</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:55.179516400</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20556170401307,32.10591316459274</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:55.179516400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:12.294316800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:12.394316800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19722845405337,32.10249486670743</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:55.179516400</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Robot</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20699806884039,32.09975798638422</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:56.179872700</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20463467770297,32.1062244319373</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:56.179872700</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20522436432718,32.10636456640505</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:56.179872700</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20556170401307,32.10591316459274</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:56.179872700</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.19722845405337,32.10249486670743</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:56.179872700</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Robot</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20752617756255,32.1025646605042</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:57.179990200</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.19722845405337,32.10249486670743</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:57.179990200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:12.294316800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:12.394316800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.210900474907874,32.102045005277624</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:57.179990200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:12.294316800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:12.394316800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.190818291736306,32.10422374888289</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:57.179990200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:12.294316800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:12.394316800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.21212556488475,32.10727117444897</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:57.179990200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:12.294316800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:12.394316800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.20744247993449,32.105207517141835</ns2:coordinates>
+                <ns2:coordinates>35.209341142899916,32.105311341067456</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:58.180476400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:13.295178800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:13.395178800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19722845405337,32.10249486670743</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:58.180476400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:13.295178800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:13.395178800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.210900474907874,32.102045005277624</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:58.180476400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:13.295178800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:13.395178800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.190818291736306,32.10422374888289</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:58.180476400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:13.295178800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:13.395178800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.2088849508812,32.10163247822552</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:58.180476400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:13.295178800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:13.395178800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.21211968561017,32.10684836194212</ns2:coordinates>
+                <ns2:coordinates>35.21269947061811,32.10529258389346</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:59.180622600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:14.296300100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:14.396300100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19722845405337,32.10249486670743</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:59.180622600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:14.296300100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:14.396300100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.190818291736306,32.10422374888289</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:59.180622600</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Apple</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.2088849508812,32.10163247822552</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:59.180622600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:14.296300100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:14.396300100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.189524815786264,32.10748609669196</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:00:59.180622600</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Robot</ns2:styleUrl>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:14.296300100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:14.396300100</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.20952073448172,32.1014480074844</ns2:coordinates>
+                <ns2:coordinates>35.188542775427116,32.10899083594373</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:00.180843200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:14.296300100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:14.396300100</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Robot</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.208234427902646,32.101654318960875</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:15.296528500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:15.396528500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19722845405337,32.10249486670743</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:00.180843200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:15.296528500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:15.396528500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.190818291736306,32.10422374888289</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:00.180843200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:15.296528500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:15.396528500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.189524815786264,32.10748609669196</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:00.180843200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:15.296528500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:15.396528500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.188542775427116,32.10899083594373</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:00.180843200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:15.296528500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:15.396528500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.20800796953953,32.101017645439676</ns2:coordinates>
+                <ns2:coordinates>35.189586631079024,32.106611163422706</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:01.181169400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:16.297063700</ns2:begin>
+                <ns2:end>2020-01-23T13:46:16.397063700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19722845405337,32.10249486670743</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:01.181169400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:16.297063700</ns2:begin>
+                <ns2:end>2020-01-23T13:46:16.397063700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.190818291736306,32.10422374888289</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:01.181169400</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.189524815786264,32.10748609669196</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:01.181169400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:16.297063700</ns2:begin>
+                <ns2:end>2020-01-23T13:46:16.397063700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.188542775427116,32.10899083594373</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:01.181169400</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Robot</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.19071455528652,32.106235628571426</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:02.181571400</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.19722845405337,32.10249486670743</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:02.181571400</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.190818291736306,32.10422374888289</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:02.181571400</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.188542775427116,32.10899083594373</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:02.181571400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:16.297063700</ns2:begin>
+                <ns2:end>2020-01-23T13:46:16.397063700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:02.181571400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:16.297063700</ns2:begin>
+                <ns2:end>2020-01-23T13:46:16.397063700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.192721152336425,32.10599540313599</ns2:coordinates>
+                <ns2:coordinates>35.19221743700557,32.10587778926777</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:03.181892700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:17.297372900</ns2:begin>
+                <ns2:end>2020-01-23T13:46:17.397372900</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19722845405337,32.10249486670743</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:03.181892700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:17.297372900</ns2:begin>
+                <ns2:end>2020-01-23T13:46:17.397372900</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.188542775427116,32.10899083594373</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:03.181892700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:17.297372900</ns2:begin>
+                <ns2:end>2020-01-23T13:46:17.397372900</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:03.181892700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:17.297372900</ns2:begin>
+                <ns2:end>2020-01-23T13:46:17.397372900</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20492591097294,32.10638560905223</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:03.181892700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:17.297372900</ns2:begin>
+                <ns2:end>2020-01-23T13:46:17.397372900</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.18992916384181,32.1043092789916</ns2:coordinates>
+                <ns2:coordinates>35.18863432929782,32.10347331596639</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:04.182690400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:18.297724400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:18.397724400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19722845405337,32.10249486670743</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:04.182690400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:18.297724400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:18.397724400</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.188542775427116,32.10899083594373</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:18.297724400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:18.397724400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:04.182690400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:18.297724400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:18.397724400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20492591097294,32.10638560905223</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:04.182690400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:18.297724400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:18.397724400</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Robot</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.191213744322376,32.10916741689707</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:19.298393400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:19.398393400</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.19722845405337,32.10249486670743</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:19.298393400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:19.398393400</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:19.298393400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:19.398393400</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20492591097294,32.10638560905223</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:19.298393400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:19.398393400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19278691399012,32.1060107580041</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:04.182690400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:19.298393400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:19.398393400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.18863432929782,32.10347331596639</ns2:coordinates>
+                <ns2:coordinates>35.19155231586402,32.104153139059676</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:05.182765</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:20.298716200</ns2:begin>
+                <ns2:end>2020-01-23T13:46:20.398716200</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19722845405337,32.10249486670743</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:05.182765</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:20.298716200</ns2:begin>
+                <ns2:end>2020-01-23T13:46:20.398716200</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:05.182765</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:20.298716200</ns2:begin>
+                <ns2:end>2020-01-23T13:46:20.398716200</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20492591097294,32.10638560905223</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:05.182765</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:20.298716200</ns2:begin>
+                <ns2:end>2020-01-23T13:46:20.398716200</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.19197033865391,32.104176344664786</ns2:coordinates>
+                <ns2:coordinates>35.21056472942926,32.104152541982096</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:05.182765</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:20.298716200</ns2:begin>
+                <ns2:end>2020-01-23T13:46:20.398716200</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.192497606133976,32.10434562521009</ns2:coordinates>
+                <ns2:coordinates>35.191877610302235,32.1056834597526</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:06.183352200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:21.299110800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:21.399110800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19722845405337,32.10249486670743</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:06.183352200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:21.299110800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:21.399110800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:06.183352200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:21.299110800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:21.399110800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20492591097294,32.10638560905223</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:06.183352200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:21.299110800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:21.399110800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.21056472942926,32.104152541982096</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:06.183352200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:21.299110800</ns2:begin>
+                <ns2:end>2020-01-23T13:46:21.399110800</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.196855934863216,32.105259345352934</ns2:coordinates>
+                <ns2:coordinates>35.19801263345001,32.105244030591884</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:07.183681400</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.19722845405337,32.10249486670743</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:07.183681400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:22.299362400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:22.399362400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:07.183681400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:22.299362400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:22.399362400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20492591097294,32.10638560905223</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:07.183681400</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:22.299362400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:22.399362400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.21056472942926,32.104152541982096</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:07.183681400</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Robot</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.197952892655366,32.10271004537815</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:08.184003600</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:08.184003600</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20492591097294,32.10638560905223</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:08.184003600</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.21056472942926,32.104152541982096</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:08.184003600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:22.299362400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:22.399362400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20939072248022,32.101284609042274</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:08.184003600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:22.299362400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:22.399362400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.20458998364875,32.10298362602033</ns2:coordinates>
+                <ns2:coordinates>35.19640508036909,32.1019664408424</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:09.184330</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:23.299919500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:23.399919500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:09.184330</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:23.299919500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:23.399919500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20492591097294,32.10638560905223</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:09.184330</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:23.299919500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:23.399919500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.21056472942926,32.104152541982096</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:09.184330</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:23.299919500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:23.399919500</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.194559021451354,32.10092904975968</ns2:coordinates>
+                <ns2:coordinates>35.20939072248022,32.101284609042274</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:09.184330</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:23.299919500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:23.399919500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.20798396122052,32.10093068416732</ns2:coordinates>
+                <ns2:coordinates>35.20991008797388,32.10117000375831</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:10.184392</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:24.300844900</ns2:begin>
+                <ns2:end>2020-01-23T13:46:24.400844900</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:10.184392</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:24.300844900</ns2:begin>
+                <ns2:end>2020-01-23T13:46:24.400844900</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20492591097294,32.10638560905223</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:10.184392</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:24.300844900</ns2:begin>
+                <ns2:end>2020-01-23T13:46:24.400844900</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.21056472942926,32.104152541982096</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:10.184392</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:24.300844900</ns2:begin>
+                <ns2:end>2020-01-23T13:46:24.400844900</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.194559021451354,32.10092904975968</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:10.184392</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:24.300844900</ns2:begin>
+                <ns2:end>2020-01-23T13:46:24.400844900</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.207675272442145,32.10333053705751</ns2:coordinates>
+                <ns2:coordinates>35.20778477524785,32.1002092065156</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:11.184719300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:25.301063100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:25.401063100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:11.184719300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:25.301063100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:25.401063100</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20492591097294,32.10638560905223</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:25.301063100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:25.401063100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.21056472942926,32.104152541982096</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:11.184719300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:25.301063100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:25.401063100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.194559021451354,32.10092904975968</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:11.184719300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:25.301063100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:25.401063100</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Robot</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20708895203705,32.10544325002345</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:26.301554100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:26.401554100</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:26.301554100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:26.401554100</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.21056472942926,32.104152541982096</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:26.301554100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:26.401554100</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.194559021451354,32.10092904975968</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:26.301554100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:26.401554100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19845904183335,32.109285107642776</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:11.184719300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:26.301554100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:26.401554100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.20175218812477,32.1078154105191</ns2:coordinates>
+                <ns2:coordinates>35.2021076954732,32.10759615299284</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:12.185145600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:27.301701600</ns2:begin>
+                <ns2:end>2020-01-23T13:46:27.401701600</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:12.185145600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:27.301701600</ns2:begin>
+                <ns2:end>2020-01-23T13:46:27.401701600</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.21056472942926,32.104152541982096</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:12.185145600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:27.301701600</ns2:begin>
+                <ns2:end>2020-01-23T13:46:27.401701600</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.194559021451354,32.10092904975968</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:12.185145600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:27.301701600</ns2:begin>
+                <ns2:end>2020-01-23T13:46:27.401701600</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.21212060420447,32.10691442335086</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:12.185145600</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:27.301701600</ns2:begin>
+                <ns2:end>2020-01-23T13:46:27.401701600</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.190633349845335,32.10912904632291</ns2:coordinates>
+                <ns2:coordinates>35.19106864570311,32.109157824253536</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:13.185370300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:28.302529400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:28.402529400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:13.185370300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:28.302529400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:28.402529400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.21056472942926,32.104152541982096</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:13.185370300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:28.302529400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:28.402529400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.21212060420447,32.10691442335086</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:13.185370300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:28.302529400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:28.402529400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20956781606395,32.101230095099574</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:13.185370300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:28.302529400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:28.402529400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.19778025456847,32.10064060361394</ns2:coordinates>
+                <ns2:coordinates>35.193770037331966,32.10099969954503</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:14.186139900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:29.302951500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:29.402951500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:14.186139900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:29.302951500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:29.402951500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.21056472942926,32.104152541982096</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:14.186139900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:29.302951500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:29.402951500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.21212060420447,32.10691442335086</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:14.186139900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:29.302951500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:29.402951500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20956781606395,32.101230095099574</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:14.186139900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:29.302951500</ns2:begin>
+                <ns2:end>2020-01-23T13:46:29.402951500</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.188660039682894,32.10406029435091</ns2:coordinates>
+                <ns2:coordinates>35.18867960687861,32.10450702126302</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:15.186503200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:30.303141400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:30.403141400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:15.186503200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:30.303141400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:30.403141400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.21056472942926,32.104152541982096</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:15.186503200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:30.303141400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:30.403141400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.21212060420447,32.10691442335086</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:15.186503200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:30.303141400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:30.403141400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20956781606395,32.101230095099574</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:15.186503200</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:30.303141400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:30.403141400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.19071455528652,32.106235628571426</ns2:coordinates>
+                <ns2:coordinates>35.20669493725362,32.10225955661986</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:16.187418900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:31.304067400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:31.404067400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:16.187418900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:31.304067400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:31.404067400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.21056472942926,32.104152541982096</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:16.187418900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:31.304067400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:31.404067400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.21212060420447,32.10691442335086</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:16.187418900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:31.304067400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:31.404067400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.21061602162951,32.10419406001592</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:16.187418900</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:31.304067400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:31.404067400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.20959811013762,32.101220769807476</ns2:coordinates>
+                <ns2:coordinates>35.20994714868325,32.10111332679978</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:17.188149100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:32.304381100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:32.404381100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:17.188149100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:32.304381100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:32.404381100</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.21056472942926,32.104152541982096</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:32.304381100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:32.404381100</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.21212060420447,32.10691442335086</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:32.304381100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:32.404381100</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.21061602162951,32.10419406001592</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:32.304381100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:32.404381100</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Robot</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.210264434221145,32.103909470588235</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:33.305121100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:33.405121100</ns2:end>
+            </ns2:TimeSpan>
+            <ns2:styleUrl>#Banana</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:33.305121100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:33.405121100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20896477770722,32.101415725757306</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:17.188149100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:33.305121100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:33.405121100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1898115112843,32.10329634202627</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:17.188149100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:33.305121100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:33.405121100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19665635622616,32.102181568158045</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:17.188149100</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:33.305121100</ns2:begin>
+                <ns2:end>2020-01-23T13:46:33.405121100</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.212111165456015,32.106235628571426</ns2:coordinates>
+                <ns2:coordinates>35.21233423712261,32.10372745447726</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:18.188474700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:34.305822700</ns2:begin>
+                <ns2:end>2020-01-23T13:46:34.405822700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:18.188474700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:34.305822700</ns2:begin>
+                <ns2:end>2020-01-23T13:46:34.405822700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1898115112843,32.10329634202627</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:18.188474700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:34.305822700</ns2:begin>
+                <ns2:end>2020-01-23T13:46:34.405822700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19665635622616,32.102181568158045</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:18.188474700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:34.305822700</ns2:begin>
+                <ns2:end>2020-01-23T13:46:34.405822700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19519817142915,32.10182661101278</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:18.188474700</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:34.305822700</ns2:begin>
+                <ns2:end>2020-01-23T13:46:34.405822700</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.20945940579683,32.10126346655757</ns2:coordinates>
+                <ns2:coordinates>35.20620940275821,32.102752551103976</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:19.189015300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:35.305917400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:35.405917400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:19.189015300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:35.305917400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:35.405917400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Apple</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.1898115112843,32.10329634202627</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:19.189015300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:35.305917400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:35.405917400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19519817142915,32.10182661101278</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:19.189015300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:35.305917400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:35.405917400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Banana</ns2:styleUrl>
             <ns2:Point>
                 <ns2:coordinates>35.19510334379017,32.101867203880836</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
         <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:19.189015300</ns2:when>
-            </ns2:TimeStamp>
+            <ns2:TimeSpan>
+                <ns2:begin>2020-01-23T13:46:35.305917400</ns2:begin>
+                <ns2:end>2020-01-23T13:46:35.405917400</ns2:end>
+            </ns2:TimeSpan>
             <ns2:styleUrl>#Robot</ns2:styleUrl>
             <ns2:Point>
-                <ns2:coordinates>35.198631089883484,32.102148710508814</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:20.189513</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:20.189513</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Apple</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.1898115112843,32.10329634202627</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:20.189513</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.19184006681478,32.104697756975675</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:20.189513</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.18817892792984,32.10529482085162</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:20.189513</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Robot</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.187594216303474,32.10378225882353</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:21.189811300</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20617092219529,32.108292525050935</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:21.189811300</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.19184006681478,32.104697756975675</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:21.189811300</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.18817892792984,32.10529482085162</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:21.189811300</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Banana</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.20516127070656,32.1069292623982</ns2:coordinates>
-            </ns2:Point>
-        </ns2:Placemark>
-        <ns2:Placemark>
-            <ns2:TimeStamp>
-                <ns2:when>2020-01-16T16:01:21.189811300</ns2:when>
-            </ns2:TimeStamp>
-            <ns2:styleUrl>#Robot</ns2:styleUrl>
-            <ns2:Point>
-                <ns2:coordinates>35.18863432929782,32.10347331596639</ns2:coordinates>
+                <ns2:coordinates>35.19433198561855,32.10219739917854</ns2:coordinates>
             </ns2:Point>
         </ns2:Placemark>
     </ns2:Document>

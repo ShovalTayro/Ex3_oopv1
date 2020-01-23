@@ -30,9 +30,9 @@ public class playAuto {
 
 	public void playAutomat() {
 		try{
-			String userID = JOptionPane.showInputDialog(null, "Enter ID number : ");
-			id = Integer.parseInt(userID);
-			Game_Server.login(id);
+		//	String userID = JOptionPane.showInputDialog(null, "Enter ID number : ");
+		//	id = Integer.parseInt(userID);
+			//Game_Server.login(id);
 			//read scenario from the player paint the graph and fruits
 			String num = JOptionPane.showInputDialog(null, "Enter a scenario you want to play : ");
 			int scenario_num = Integer.parseInt(num);
@@ -112,7 +112,7 @@ public class playAuto {
 				}
 				String kmlString = contentBuilder.toString();
 			
-				game.sendKML(kmlString);
+			//	game.sendKML(kmlString);
 
 
 				//show result on window
