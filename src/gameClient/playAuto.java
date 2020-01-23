@@ -30,9 +30,9 @@ public class playAuto {
 
 	public void playAutomat() {
 		try{
-		//	String userID = JOptionPane.showInputDialog(null, "Enter ID number : ");
-		//	id = Integer.parseInt(userID);
-			//Game_Server.login(id);
+			String userID = JOptionPane.showInputDialog(null, "Enter ID number : ");
+			id = Integer.parseInt(userID);
+			Game_Server.login(id);
 			//read scenario from the player paint the graph and fruits
 			String num = JOptionPane.showInputDialog(null, "Enter a scenario you want to play : ");
 			int scenario_num = Integer.parseInt(num);
@@ -77,7 +77,7 @@ public class playAuto {
 					check++;
 				}
 				this.MyGame.paint(game);
-			MyGameGUI.sleepy= changSleppy(scenario_num);
+				MyGameGUI.sleepy= changSleppy(scenario_num);
 				//	start the game
 				game.startGame();
 				//Timer
@@ -111,8 +111,8 @@ public class playAuto {
 					e.printStackTrace();
 				}
 				String kmlString = contentBuilder.toString();
-			
-			//	game.sendKML(kmlString);
+
+				game.sendKML(kmlString);
 
 
 				//show result on window
@@ -142,9 +142,9 @@ public class playAuto {
 	private long changSleppy(int scenario_num) {
 		switch(scenario_num) {
 		case 0 :
-		return 110;
+			return 110;
 		case 1 :
-		return 100;
+			return 100;
 		case 3: 
 			return 105;
 		case 5:
@@ -160,11 +160,11 @@ public class playAuto {
 		case 19 :
 			return 120;
 		case 20: 
-		return 110;
+			return 110;
 		case 23:
 			return 90;
-			default :
-				return 100;
+		default :
+			return 100;
 		}
 	}
 
@@ -197,7 +197,7 @@ public class playAuto {
 		for (int i = 0; i < this.MyGame.rob.size(); i++) {
 			ourRobots roby = this.MyGame.rob.get(i);
 			while(!roby.getPath().isEmpty()) {
-			game.chooseNextEdge(roby.getId(), roby.getPath().get(0).getKey());
+				game.chooseNextEdge(roby.getId(), roby.getPath().get(0).getKey());
 				roby.getPath().remove(0);
 			}
 		}	
@@ -248,9 +248,9 @@ public class playAuto {
 				);
 
 	}
-/**
- * this method show the user rank in fron of the pther players
- */
+	/**
+	 * this method show the user rank in fron of the pther players
+	 */
 	public static void rank() {
 		int[][] bestCase = dataBase_Function.bestCase(id);
 		JOptionPane.showMessageDialog(null, "Current Stage: " + scenario_num +
