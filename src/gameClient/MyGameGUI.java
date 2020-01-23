@@ -216,7 +216,7 @@ public class MyGameGUI implements Serializable{
 				while(game.isRunning()){
 					if(gr !=null){
 						try {
-							Thread.sleep(1000);
+							Thread.sleep(100);
 							String name  = java.time.LocalDate.now()+"T"+java.time.LocalTime.now();
 							LocalTime end = java.time.LocalTime.now();
 							end= end.plusNanos(100*1000000);

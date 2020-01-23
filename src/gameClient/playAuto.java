@@ -32,11 +32,11 @@ public class playAuto {
 		try{
 			String userID = JOptionPane.showInputDialog(null, "Enter ID number : ");
 			id = Integer.parseInt(userID);
-			Game_Server.login(id);
+		//	Game_Server.login(id);
 			//read scenario from the player paint the graph and fruits
 			String num = JOptionPane.showInputDialog(null, "Enter a scenario you want to play : ");
-			int scenario_num = Integer.parseInt(num);
-			if(scenario_num>=0 && scenario_num<=23) {
+			scenario_num = Integer.parseInt(num);
+			if(scenario_num == -31 || (scenario_num>=0 && scenario_num<=23)) {
 				game_service game = Game_Server.getServer(scenario_num);
 				String g = game.getGraph();
 				DGraph gg = new DGraph();
@@ -78,6 +78,7 @@ public class playAuto {
 				}
 				this.MyGame.paint(game);
 				MyGameGUI.sleepy= changSleppy(scenario_num);
+
 				//	start the game
 				game.startGame();
 				//Timer
@@ -114,7 +115,6 @@ public class playAuto {
 
 				game.sendKML(kmlString);
 
-
 				//show result on window
 				String res = game.toString();
 				JSONObject object = new JSONObject(res);
@@ -144,11 +144,11 @@ public class playAuto {
 		case 0 :
 			return 110;
 		case 1 :
-			return 100;
+			return 105;
 		case 3: 
 			return 105;
 		case 5:
-			return 110;
+			return 120;
 		case 9:
 			return 105;
 		case 11:
@@ -158,7 +158,7 @@ public class playAuto {
 		case 16:
 			return 110;
 		case 19 :
-			return 120;
+			return 105;
 		case 20: 
 			return 110;
 		case 23:
